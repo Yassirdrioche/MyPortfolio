@@ -107,8 +107,8 @@ img {
 \*-----------------------------------*/
 
 .hero-banner {
-  width: 150px;
-  height: 172px;
+  /* width: 150px;
+  height: 172px; */
   background-color: var(--independence);
   border-radius: var(--radius-10);
   margin-inline: auto;
